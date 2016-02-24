@@ -32,18 +32,18 @@ The project shall cover aspects of both hardware (i.e. design for manufacturabil
 
 
 ## Milestone plan
- [ ] get the modules to work (Arduino, mbed)
-   [ ] simple tx/rx
-   [ ] ranging
-   [ ] localization
- [ ] schematics design
- [ ] software development
-   [ ] implement basic peripherals
-   [ ] port working localization code to ARM
-   [ ] integrate libUAVCAN 
- [ ] integration and validation tests
- [ ] documentation 
-   [ ] final report
-   [ ] product datasheet
-   [ ] production files
+ - [ ] get the modules to work (Arduino, mbed)
+   - [ ] simple tx/rx
+   - [ ] ranging
+   - [ ] localization
+ - [ ] schematics design
+ - [ ] software development
+   - [ ] implement basic peripherals
+   - [ ] port working localization code to ARM
+   - [ ] integrate libUAVCAN 
+ - [ ] integration and validation tests
+ - [ ] documentation 
+   - [ ] final report
+   - [ ] product datasheet
+   - [ ] production files
 
