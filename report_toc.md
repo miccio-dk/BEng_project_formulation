@@ -24,14 +24,32 @@
     * Sensors
   * Software
     * Project structure
-      * Building envirnment
+      * Building environment
+      * Tools
     * Hardware abstraction layer
+      * ISP
+      * EEPROM
+      * UART
+      * Timers (SCT, MRT, RIT, SysTick)
+      * Real-time Clock
+      * Watchdog
+      * Internal temperature sensor
+      * CRC and Flash signature engines
+    * Software modules
+      * decaWave module
+      * Configuration manager
+      * Command line interface
+      * Time tracking
+      * System self-test
     * UAVCAN
       * Protocol
       * Library
+        * Drivers port
     * Processes
       * UAVCAN node
+      * Sensor reading
       * Position estimator and publisher
+      * Idle task
 * Testing
   * Hardware tests
   * Software tests
@@ -46,6 +64,7 @@
   * End-user manual
   * Further material
     * Source code
+    * Repository commit logs
     * Matlab scripts
     * Data and pictures from tests
     * Production files
